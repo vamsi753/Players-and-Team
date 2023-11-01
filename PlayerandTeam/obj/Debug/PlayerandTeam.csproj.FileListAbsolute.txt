@@ -1,0 +1,7 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.exe.config
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.AssemblyReference.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.pdb
